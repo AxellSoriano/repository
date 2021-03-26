@@ -1,1 +1,3 @@
-contenido del fichero A
+contenido del fichero A para el login
+
+para el ingreso del programa
